@@ -113,9 +113,4 @@ status selain 200, dan format JSON salah ditangkap sebagai `ApiException` dan di
 | Screen minimal 2 | Cuaca, Cari Kota, + Favorit |
 | Data dari API, bukan hardcoded | Semua data cuaca & hasil pencarian dari request nyata |
 
-## Catatan Pengumpulan
 
-- [ ] Push source code ke GitHub
-- [ ] Ganti screenshot di folder `screenshots/`
-- [ ] Rekam video penjelasan kode
-- [ ] Kirim link lewat form sebelum **26 November 2026 pukul 10.00**
