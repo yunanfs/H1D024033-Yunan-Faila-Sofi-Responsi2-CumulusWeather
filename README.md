@@ -113,4 +113,5 @@ status selain 200, dan format JSON salah ditangkap sebagai `ApiException` dan di
 | Screen minimal 2 | Cuaca, Cari Kota, + Favorit |
 | Data dari API, bukan hardcoded | Semua data cuaca & hasil pencarian dari request nyata |
 
-
+## Link Video Youtube
+Video Penjelasan: https://youtu.be/aDPMdSdmWro?feature=shared
